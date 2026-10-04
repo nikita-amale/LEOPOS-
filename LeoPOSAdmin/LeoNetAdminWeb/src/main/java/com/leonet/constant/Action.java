@@ -1,0 +1,27 @@
+package com.leonet.constant;
+
+public enum Action {
+	
+	 ADD_SALE,
+	 UPDATE_SALE,
+	 DELETE_SALE,	
+	 VIEW_SALE,
+	 
+	 ADD_SPECIAL_SALE,
+	 UPDATE_SPECIAL_SALE,
+	 DELETE_SPECIAL_SALE,	
+	 VIEW_SPECIAL_SALE,
+	 
+	 ADD_PAYMENT,
+	 DELETE_PAYMENT,
+	 
+	 ADD_QUOTE,
+	 UPDATE_QUOTE,
+	 CONVERT_QUOTE_TO_SALE,
+	 
+	 PRODUCT_UPDATE,
+	 
+	 QUANTITY_UPDATE
+	 
+
+}

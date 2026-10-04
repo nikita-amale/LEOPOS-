@@ -1,0 +1,45 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+/leoPOSCommon/target
+/leoPOSCommon/.settings
+/leoPOSCommon/target
+/leoPOSCommon/target
+leoPOSCommon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+leoPOSCommon/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+leoPOSCommon/target/maven-archiver/pom.properties
+leoPOSCommon/target/classes/META-INF/MANIFEST.MF
+leoPOSCommon/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+leoPOSCommon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/leoPOSCommon/target/classes
+leoPOSCommon/target/classes/META-INF/MANIFEST.MF
+leoPOSCommon/.settings/org.eclipse.core.resources.prefs
+leoPOSCommon/.settings/org.eclipse.jdt.core.prefs
+/leoPOSCommon/target
+/leoPOSCommon/target
+/leoPOSCommon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile
+*.lst
+leoPOSCommon/target/maven-archiver/pom.properties
+LeoPOSAdmin/LeoNetAdminWeb/src/main/webapp/WEB-INF/.DS_Store
+LeoPOSAdmin/LeoNetAdminWeb/src/.DS_Store
+.DS_Store
